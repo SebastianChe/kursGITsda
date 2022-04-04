@@ -1,1 +1,3 @@
 Zmiana w pliku.
+Ćwiczę jak wycofać plik.txt z Stage Area do Working Area
+git add != git reset
